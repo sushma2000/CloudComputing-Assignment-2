@@ -1,4 +1,4 @@
-# Wine Wuality Prediction
+# Wine Quality Prediction
 
 ### Phase 1: Pre-requisites
 get the AWS account, credentials and pem file ready (same as last assignment)
